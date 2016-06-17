@@ -1,0 +1,144 @@
+Leaders to Leaders Conversations
+
+Convening
+
+Problems:
+Following up on projects from MozFest, making the ones from previous years findable/updatable
+Need comm channels that allow all types of people to participate (introverts, extroverts)
+
+Opportunities for convening: 
+Input of proposals
+Navigation of event itself
+	* people don’t always have mobile devices
+Connection between people
+Documentation of projects/ stories
+Follow up on community response to project after an event would be useful (i.e. science sprint)
+
+Facilitators ask how they can share their sessions
+
+Insights team
+
+Goal: align on why and how we want to collect/share stories and projects across Mofo
+
+Why:
+	* Bring heart to issues
+	* communications: feature story > press releases
+	* shared experience to bring people into movement
+	* we have stories/content already, we need to use them to inform the issues
+	* stories give characters to projects
+
+Current initiatives
+	Gigabit community fund (interviews and posts)
+		Audience: Mozilla network funders
+	Medium publication/publishing platform
+		Audience: general consumers, everyday users
+		
+Looking to output in 3 ways:
+    State of the web publication
+		* Health of the web" around the issues we care about
+			* Metrics and visualization
+			* Human story & narrative
+		* Audience: Organizations and conscious consumers, like Firefox users
+    Issues Radar ("What is Mozilla doing on x?")
+    Mozilla.org Publishing platform ("Mozilla Medium")
+    
+Pulse of the network
+	* Network story collection & visualization
+	* Mozfest proposals
+	* Fellowship applications
+
+Research
+	* 600 stories & Multi-media
+	* several countries
+	* local use/patterns
+	* passions, interests
+
+Science
+Interviews
+posts
+onboarding
+
+Challenges:
+	* Member contributions
+	* Navigate/search/find things that are going on around Mozilla
+	* Demonstrating impact
+
+Steps needed
+	1. Intake- items focused on one of 5 issues
+	1. Triage/analysis
+	* visualize
+	* Coding/research
+	* Interviews
+	* (Thank submitter)
+	1. Output
+	* Communications/marketing
+	* State of the web
+	* Metrics
+	* Research
+	* Value proposition
+	* Fundraising
+
+Prototyping/ideation time:
+Pulse hacking & whiteboarding
+Key issue- content strategy publishing
+motivation/value proposition
+existing tools & best practices
+
+
+----------
+
+Leaders to Leaders:
+
+Event App Upgrades:
+Improve what we already have:
+	* Improve UX
+		* users view of now, next, and favorites
+		* Preserve app state across session
+		* Offline functionality
+		* Reduce scrolling (on mobile especially)
+	* Explore options for syncing between devices (ex. desktop to mobile)
+	* Feedback from staff on London use of pads
+	* Improve admin experience of session management
+	* Evaluate benefits of Reactication? (Improves scalability)
+	* Identify diverse use-cases across org (ex science sprint, maker party, ...)
+Add new features:
+	* Add stream (etherpad-esque images, text and links)
+		* Think about data management (researching) - Spreadsheet vs database (cms)
+	* Prototype beacon possibilities
+	* Does the schedule app need to facilitate post-session connections between leaders?
+	* meet with program managers for user feedback and interviews
+	* apply mofo universal design style to app
+
+Pulse project:
+	Our Problem: We don't have a comprehensive view of artifacts created by network members. We struggle to judge our impact, and leverage that knowledge to tell our story and improve our programs. We don’t have an effective way to share it with people, on social networks, with our institutional allies, and individual partners. (People within the org don't know what successes we've had (related to our issues agenda), even harder for outsiders to find out)
+	Opportunity: An ongoing view of network artifacts enables us to elevate the best work of our members, a valuable incentive for participation. When we build a better practice to surface and amplify these artifacts, we can also better understand and demonstrate the value that the network provides to each node in the network. (A way to surface and amplify content (improve discoverability) from across Mozilla, in one spot. These are stories/blog posts/successes/??? about the five main agenda issues)
+	* Familiarize ourselves with the project and problem space more
+	* Figure out how we encourage people to submit entries - (demo calls, regular emails, mozbot nagging, scrub our blogs, pinterest style plugin ... )
+	* Figure out how it reaches people (site, email, notifications, RSS, Mozbot, carrier pigeon?)
+	* Define the requirements for the process and/or system
+	* Explore how to create a story telling culture at Mozilla (interview people...)
+	* No implementing yet.
+	* Be mindful of these needs as we build other projects (consider APIs)
+	* Add small features like tags, deep linking, from event reporter to pulse for testing at Mozfest
+	* meet with program managers for user feedback and interviews
+	* kiosk at mozfest for people to add stories
+
+
+
+Science's Collaborative Projects/Hive Stories(portfolio)
+	* Problem: collect & share projects from all the hubs, in order to help connect leaders.
+	* Phase II science site - github integration to finish "projects"
+
+Chat
+	* Problem: Provide a real-time, persistent communication channel for Mozillians and Leaders to connect and collaborate effectively.
+	* Gather user feedback
+		* People who are using it- what works/doesn't work
+		* People who aren't: why?
+	* Evaluate and implement integrations that the team might find useful
+	* Improve onboarding experience
+
+
+Scaling On-the-Ground Impact
+	* Notes: https://docs.google.com/document/d/1jfMHigrRRXk67XW6WLbnWzUHuOHd6ceADqgYxqCbWxE/edit#
+	* Deck: https://docs.google.com/presentation/d/1BgQsqKNJrU0yKU9GbSp80chStkkVuJ3X7uvQqpeP4ns/edit#slide=id.g146a3c76a4_0_100
+

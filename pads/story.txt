@@ -1,0 +1,142 @@
+Link to here in schedule app
+
+Goal for the session:
+	* understand various story-gathering / collection efforts / projects& their goals)
+	* collaboration - opportunities to coordinate
+	* make a plan for H2 
+
+
+Who should attend 
+	* Sam
+	* Matt
+	* Matthew
+
+Try to add:
+	* Kevin
+	* Paul
+	* Lainie
+	* [Advocacy] (Brett?) 
+	* Lotta
+	* OPTIONAL - Bobby
+	* OPTIONAL - Jordan
+	* OPTIONAL - Laura
+	* OPTIONAL - Simon
+
+
+Key milestones in H2 
+	* 1.0 strategy document
+	* Mozilla Festival
+	* State of the Web
+	* Issues Radar
+	* Copyright campaign 
+	* New publishing platform
+
+Agenda (90 minutes)
+
+	* Overview/Welcome
+		* Goals of the session: the next 6 months
+		* Everyone shares: 
+			* Why does this matter to you/your work?
+			* How would having more stories about the network available to the public, benefit the network?
+	* Brief intro to current initiatives + their goals
+			* Matthew - Pulse
+			* Matt - Story Engine
+			* Sam - Issues Radar, State of the Web
+	* Whiteboard 
+		* How do initiatives overlap in terms of goal, audience
+		* What are opportunities to work together? (existing, or if we modify)
+		* Leveraging / organizing around our 5 key issues as taxonomy
+		* Roadmap / next steps
+
+
+StoryPulse
+	* Q3: Intake / display / discovery & filter
+		* Ask: (select colleagues file story tips)
+		* Input: Interesting People, Projects
+			* Value proposition: 
+	* Q4: Generate wins (show how that service can tie to ) 
+		* Ask: 
+		* Output: Stories
+			* Value proposition: 
+	* Q1: Widen out 
+		* Widen out the 
+			* Value proposition: 
+
+
+Links: 
+	* pulse research: https://docs.google.com/presentation/d/10QvAb_utE6KXgIucuQiJ65NW3frmq85XTBgo76r_AvY/edit
+	* precedents: https://docs.google.com/document/d/1SAAuPgOaVqpQorrbD0vZSnf8wHHYjddPyYrkrFj72kQ/edit#
+	* awesome example, cautionary tale: (Note Lainie/Sam D and Chris L have experience/history with this project if helpful)
+		* http://www.workingexamples.org/browse/examples
+		* http://www.workingexamples.org/uploads/File/838
+
+Issues team
+
+Goal: align on why and how we want to collect/share stories and projects across Mofo
+
+Why:
+	* Bring heart to issues
+	* communications: feature story > press releases
+	* shared experience to bring people into movement
+	* we have stories/content already, we need to use them to inform the issues
+	* stories give characters to projects
+
+Current initiatives
+	Gigabit community fund (interviews and posts)
+		Audience: Mozilla network funders
+	Medium publication/publishing platform
+		Audience: general consumers, everyday users
+		
+Looking to output in 3 ways:
+    State of the web publication
+		* Health of the web" around the issues we care about
+			* Metrics and visualization
+			* Human story & narrative
+		* Audience: Organizations and conscious consumers, like Firefox users
+    Issues Radar ("What is Mozilla doing on x?")
+    Mozilla.org Publishing platform ("Mozilla Medium")
+    
+Pulse of the network
+	* Network story collection & visualization
+	* Mozfest proposals
+	* Fellowship applications
+
+Research
+	* 600 stories & Multi-media
+	* several countries
+	* local use/patterns
+	* passions, interests
+
+Science
+Interviews
+posts
+onboarding
+
+Challenges:
+	* Member contributions
+	* Navigate/search/find things that are going on around Mozilla
+	* Demonstrating impact
+
+Steps needed
+	1. Intake- items focused on one of 5 issues
+	1. Triage/analysis
+	* visualize
+	* Coding/research
+	* Interviews
+	* (Thank submitter)
+	1. Output
+	* Communications/marketing
+	* State of the web
+	* Metrics
+	* Research
+	* Value proposition
+	* Fundraising
+
+Prototyping/ideation time:
+Pulse hacking & whiteboarding
+Key issue- content strategy publishing
+motivation/value proposition
+existing tools & best practices
+
+
+
