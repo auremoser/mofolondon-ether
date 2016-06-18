@@ -1,0 +1,86 @@
+Shareout
+	* Big discoveries?
+	* Big blockers?
+
+
+Cohort name and purpose?
+	* clear? useful?
+	* better than what we had before?
+
+
+Things to Circle-back on:
+
+	* Ethernalysis (Matthew will introduce)
+		* any volunteers?? i can try if this doesn't need to be done by EOW (Mavis) yay :D
+	* Django + Curriculum
+		* Media management
+		* https://docs.google.com/document/d/1JloT5LpUC1cwpr3klw7z8bHMxH83W33RAOhw0uG5vN4/edit
+		* https://docs.google.com/document/d/1h3m2Fsgu6c4T6cv99K3HrqFCOG5QeNfgTibEF9IPJts/edit
+	* Collecting stories across hubs + Conversation that happened in global group + Hive portfolios
+		* Who writes stories?
+			* Claw tells staff to write them as blog posts
+			* Study group leads
+				* 
+		* What is a story?
+			* A meaty 
+			* Mostly meta-data
+				* Title
+				* URL
+				* contact
+		* What are the goals?
+			* Knowledge of and Insight on what's happening in our programs and network  - successes and challenges [primary] 
+				* I said it's sad to think of all the lost stories and artifacts. Claw furthered: we are killing ourselves by not capturing this stuff from our programs in an accessible cross-org way. 
+			* Capacity to tell our story more easily and with more impact
+			* Reduce sadness +1 [goal #0]
+			* Promotion / Recognition [primary/secondary]
+			* Inspiring replication [secondary]
+			* Helping people find useful stuff [secondary]
+			* Connecting ppl to one another [secondary]
+			* Inspiring good feelings :) [tertiary]
+			* Attracting contributors [tertiary]
+			* 
+		* Notifications - how do we subscribe to stories?
+	* Chat's role as a platform
+		* It's missing people
+		* participants and conversations are still mostly engineer focused, like in IRC
+			* are there non-technical conversations that we're not aware of happening in non-engineering channels?
+		* Worried about people adopting it
+		* Slack
+			* We left IRC because of ostensibly bad UX, but Mattermost isn't great in that department either.
+			* A lot of people are using Slack already. We should "go where our users are" and not make them come to us.
+			* Slack has an IRC adapter, so you can use it with non-Slack clients.
+			* Slack has mobile clients and push notifications.
+			* 
+		* tl;dr: Slack disabled their ability to invite because they had too many users:
+			*  https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html
+		* It's difficult to build and deploy on Heroku (not a 12 factor app) and every release seems to break my super hacky custom buildpack.
+	* What's happening with the things after this process? (Simon)
+
+
+Things to follow-up on after this week:
+	* Product rubric
+	* Define goals re: stories ^
+	* Prototype kiosk at mozfest for story telling, possibly 
+	* Prototype integration with slack 
+		* Vidyo?
+		* Etherpads?
+		* Event app
+	* IA Changes that need to be made - This is captured in the going global work
+		* Learning site
+	* Figure out budget for mini-workweeks
+	* We'll need more breakout space in Hawaii
+	* 
+
+
+
+
+
+Notes from going global:
+	* https://docs.google.com/document/d/1bCfeDg7uoGm8R96Y0FwCUG4CzXcDYI3VaolDoNNQn8w/edit#
+
+Notes from leaders to leaders:
+	* https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups
+
+Notes from on the ground:
+	* https://docs.google.com/document/d/1jfMHigrRRXk67XW6WLbnWzUHuOHd6ceADqgYxqCbWxE/edit#heading=h.6rz1yc7knw8v
+

@@ -1,0 +1,48 @@
+Open Lead
+Deep Dive: Module 1 - Intro to Open Leadership
+
+Feedback:
+	* Exercises throughout are really helpful (Andre)
+	* Time estimates are outstanding (from an educator's perspective, especially) (Geoff M)
+	* Open Canvas- like approaches have been useful for startups / sussing out ideas for project pitches (which is another exercise!) (Geoff M)
+	* Styling for low-bandwith? 
+	* 
+
+
+Questions:
+	* Geographically local projects / hyper local - what is the eventual platform for the sharing of the projects themselves (to get more global attention)? 
+		* Z: this is a tool for anyone starting a project anywhere.  not the purview necessarily of this training to create the platform, but there are conversations about how to support that sort of sharing MLN wide (current example, Science Lab's "Projects" page : https://science.mozilla.org/projects
+	* What about lo-fi / low connectivity communities? 
+		* Z: right now this is primarily a content draft. next bit of work is to dig into delivery mechanism. 
+		* C: part of this work in extending across hubs and communities is working with them to help implement and adapt. 
+			* the github sessions are there due to a need across many of the communities, but by no means a requirement for low fi communities. 
+
+========
+
+
+Deep Dive: Module 2 - Open Communications
+
+Feedback:
+	*  like the chat channels for projects (a lot of projects have them, and helpful) (abby)
+	*  would love to see more references / links to groups that are providing help (ie., need help with web development? click here!) (andre)
+	* love learning by examples (andre)
+	* like at the very least consider 2 types of comms - it's achievable. might be able to even broaden that (consider a communication channel that's outside of your comfort zone but keep it achievable)
+	*  love the video, but does seem quite involved. wonder if for a much smaller project, an example of a smaller project would help too
+	* Reps innovation fund - tiny accelerator for Reps based projects (grants of $100). what they're missing are trainings like this. how can we get to all those interested. 
+	* 
+
+Questions:
+
+	* question about github - users don't necessarily use github. how to accomodate for that - should we be encouraging it?
+		* C: we do see github heavily used in the community. are a bit opinionated by that, by design. also for folks a bit further along
+	* have you thought about this for an RFP process? have talked to a lot of educators who have great ideas but need help planning. could be really useful. 
+	* recognition for those who complete this? 
+		* badging? 
+		* certificate for credentialing
+			* open to suggestions! 
+	* strategy for localisation 
+	* what is the measure of impact? 
+
+	*  
+	*  
+	*  

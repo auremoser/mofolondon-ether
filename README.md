@@ -31,7 +31,7 @@ etherpad stats stuff for mofo london
 * 120 etherpads/sessions
 
 
-### options
+### process options
 
 #### 1
 This tool : https://github.com/betatim/etherbrain lets you get a .md file for an etherpad, and then maybe the wget command would work, thanks @betatim!
@@ -53,5 +53,7 @@ Length: 10466 (10K)
 Maybe we can append `/export/txt` to each pad and download the txt files and then just write a quick stats script.
 
 We'll probably do this one.
+
+Most etherpads are empty and pads seem to have a character limitation on the url (so long pad names don't render)
 
 

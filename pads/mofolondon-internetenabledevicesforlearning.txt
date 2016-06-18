@@ -1,0 +1,48 @@
+Exploring Internet Enable Devices for Learning (Robert/Julia)
+Room 11 / Metropole Tower Wing
+Wednesday, 2:45 PM
+
+Step 1
+	* Download Arduino IDE application (Google it)
+Step 2
+	* Go to http://hackshop.org
+	* Click level 5
+	* Start with challenge 5.3
+
+Device
+	* Arduino - https://www.arduino.cc/
+	* The Photon www.spark.io/start
+	* Makey Makey (as entry point and for younger audiences) 
+	* 
+Device Tips
+	* 
+	* 
+	* 
+Online Resources
+	* Official: https://www.arduino.cc/en/Tutorial/HomePage
+	* SparkFun is awesome, and their Ed director believes in an "open hardware" approach: https://learn.sparkfun.com/
+		* Project ideas, tutorials, etc. - compatible with Arduino
+	* Wireless Earth Watchdogs blog: http://wirelessearthwatchdawgs.blogspot.co.uk/
+		* Hive CHA project, using environmental sensors in a classroom setting - project blog, with code, videos, lessons, etc.
+	* In Comic Sans, but plenty of resources/tutorials via https://arduino-info.wikispaces.com/ 
+	* Adaptable/for younger students - LittleBits are less hackable, but the project themes/ideas in concert with other sensors/etc. may be useful/inspirational: http://littlebits.cc/lessons?type=lesson&sort=recent&page=1&per_page=12#browse
+	* Via Make Magazine, Arduino projects: http://makezine.com/category/technology/arduino/
+	* Arduino on Git: https://github.com/arduino/
+	* How to build your own Arduino board: http://diyhacking.com/make-arduino-board-and-bootload/
+	* Flocky Bird (built by Michelle) - https://public.etherpad-mozilla.org/p/flockybird - great for Makey Makey, also uses Thimble to allow people to adjust code to change elements of the game 
+
+
+Project Ideas
+	* LED Thermometer+1
+		* Write a program that reads tomorrow's weather forecast
+		* Send output from that program to an LED thermometer that glows according to the temperature forecast
+		* Advanced: if you can capture physical input (e.g. via a Makey Makey) you could build a touch-sensitive map that allow you to touch the location where you're traveling tomorrow and program the LED to light based on the forecast temperature in that location.
+	* Sound Thermometer
+		* https://www.arduino.cc/en/Tutorial.WiFi101WeatherAudioNotifier
+	* 
+	* 
+	* 
+
+
+
+

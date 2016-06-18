@@ -1,0 +1,987 @@
+The Mozilla Learning MozFest 2016 MASTER PAD for Wranglers and Staff
+This pad captures notes from Mozilla Staff and Community Wranglers to shape the MozFest 2016 Experience.
+This pad should not be shared with the general public as it contains internal notes and formative ideas.
+
+_____________________________________________________________________
+DARCI
+	* What's a DARCI? https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+	* What are the MozFest roles? https://docs.google.com/drawings/d/1wEjLDJAESQf4swojoTSAcX-bGoImi6SyL7bGCR6gn2U/edit?usp=sharing
+
+Decider: TBD
+
+Accountable: Staff Wrangler
+	* Robert Friedman, Hive Chicago Portfolio Strategist <robert@mozillafoundation.org> @omnignorant
+		* w/ support from Kim Wilkens
+
+Responsible: Community Wranglers
+	* Kim Wilkens <techkim@kimxtom.com>
+	* Su Adams <su_adams@yahoo.co.uk>
+	* Simeon Oriko <simeon@jamlab.co.ke>
+
+Consulted/Helping: Staff Crew
+	* Amira Dhalla
+	* Julia Vallera
+	* Chad Sansing
+	* Andre Garzia
+	* Simona Ramkisson
+	* Lainie DeCoursey
+	* Iris Bond Gill
+	* Janice Wait/Katie Hendrix 
+
+Informed: 
+	* Learning Team
+	* Learning Community
+	
+Learning: Community Members
+	* Marina Malone, Chicago Public Schools & RideW/Me project
+	* Web Lit Leaders
+_____________________________________________________________________
+CONNECTING & WORKING WITH US
+
+	* This Etherpad – collaborative group meeting/call notes;
+	* Mattermoz – whole-team inquiries like "where do I find this", or "how do I do that"
+		* especially for queries that might benefit others to know about;
+	--> https://chat.mozillafoundation.org/mozilla/channels/learning-at-mozfest
+			* Join Mattermoz at https://chat.mozillafoundation.org/signup_user_complete/?id=3m87m99ooirjtgfdjtaadxh8kr
+	* Email – working correspondence that doesn't benefit others;
+	* Twitter/Discourse – public dialogue and queries to/with the broader community;
+	--> https://discourse.webmaker.org/c/mozfest-2016
+	* Google Drive – where we're keeping our dirty laundry
+	--> https://drive.google.com/open?id=0B-EZWDUirQ46Qzg0dlBTMER6ckU
+	* GitHub (Pending) – tracking on specific tasks and responsibilities (build this, finish that)
+		* though eventually it will also probably be used for proposal reviews (TBD);
+		* https://github.com/MozillaFoundation/mozfest2016-demystify-the-web
+	* Retreat Wiki – exhaust from the MozFest retreat in Berlin, May 2016
+	--> https://wiki.mozilla.org/Mozfest/2016/retreat
+
+Community Wrangler Check-in Cadence
+Every Other Friday starting April 29, 11AM GMT
+Join via Skype (connect with rfriedman81 to be added)
+
+Staff Crew Check-in Cadence
+Every Other Monday starting May 16, 8PM GMT
+To join via Vidyo (connect in Robert Friedman's room)
+	* https://v.mozilla.com/flex.html?roomdirect.html&key=brzPfPhjhgFpSWLNHGkCmA9ZHW8  
+	* If you do not have a user account, please enter your name in the "Guest Name" field and then click "Join". 
+To join from a telephone, dial one of the following numbers depending on your nearest location: 
+	* US Toll Free +1 800 707 2533, pin 369, conf 98774 
+
+NEW! The Learning Space Plan
+DEMYSTIFY THE WEB!
+a collaborative google doc where we're shaping our space;
+https://docs.google.com/a/kimxtom.com/document/d/10YPMLm2iy1N3W-YG02dnZkFoR0z1wPvHehwvMjxA6UU/edit?usp=sharing
+
+NEW! Team Roles
+everyone has a job to do! Review the timeline for activity leading up to MozFest and how we're breaking up the work
+https://docs.google.com/a/mozilla.com/document/d/1Oi8Yg0Ct1NiB9Pght1kdbUfl1GgRz3qsx7n7CVkOSjE/edit?usp=sharing
+
+"Team Rogue Learning" 
+Formative, staff-driven ideas for consideration
+	* https://public.etherpad-mozilla.org/p/mozfestteamrogue
+
+Spotlight: Web Literacy Leaders at MozFest video
+	* https://www.youtube.com/watch?v=bTxPRi_LDOk 
+	* http://inpoints.org/index.php/2016/02/11/ride-with-me-to-london/ 
+
+_____________________________________________________________________
+UPCOMING MILESTONES
+
+April 30 – Soliciting Staff and Community Input on Learning Space Purpose
+	* using Weekly Staff Call, Discourse, Twitter, and Regional Coordinator email list
+May 4 – MozRetreat in Belin
+	* Robert & Kim use existing staff and community input on purpose to draft a purpose statement
+June 1 – MozFest Call for Proposals for Sessions Opens
+June 3 – Regional Coordinators Call
+	* Featuring Community Wranglers to introduce MozFest CFP
+*June 14 – Web Literacy Workshop - This has changed to June 16 5pm UTC
+	* Starring Community Wranglers to workshop proposals to the Learning Space
+	4pm GMT *live from Mozilla All Hands*
+June 29 – Ed Hub Mozilla Learning Community Call
+	* Starring Community Wranglers to talk about the purpose of the Learning Space
+
+_________________________________________________________________________________________________________________________________
+BEGINS HERE!!! \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+****************************************************************************************************************************************************************************************
+
+PUT THEM HERE!!!!!
+
+
+
+
+Meeting Agenda - June 10
+	* (5 min) Openings
+	* (10 min) Review Work in Progress
+	* (20 min) State of Call for Proposals
+	* (10 min) GitHub Repo
+	* (5 min) Open Badges
+	* (5 min) Closing Takeaways & Gratitude
+
+Openings
+	Celebration: What are you excited about right now? OR What's got you down?
+		* I'm really excited to be heading to London on Saturday for our Mozilla all-hands! We're going to have 1.5 hours of face to face time with staff in the DARCI above and I'm leading a skillshare elective on IOT, of which I know very little but bought some Particle Photos and Arduino 101 WiFi cards. yay!
+		* school's out!! now onto tech camp
+		* Sun is out in Nairobi after weeks of floods! :D Also, I have less on my plate which means more time to focus on this :)
+		* Lots of exciting people to talk to and ........ Yasmin is on board (Who is Terror)!
+	Personal Norming: What is something you hope to get from the team today?
+		* where are we with our call for proposal asks?+1
+		* Who do we need to get the call for proposals to and how do we do that?
+		* Some sleep? Seriously though, I'm hoping we could make some progress on #mimi – I owe us a blog but have it mostly in my head now, Kim has done a fantastic job with one here:
+			* https://medium.com/mozfest-2016/demystify-the-web-call-for-proposals-at-mozfest-b96d7965f856#.shq95l5ol
+		* Some content to pilfered
+	Team Norming: What is something you hope to give the team today? What is something the team should consider?
+		* share updates from space wrangler call
+		* Share on develolpments with set design :)+1
+		* I hope to give you all an opportunity to bring top-concerns to staff next week... and by EOD today, a blog post draft we can get up next week.
+		* 
+
+Review Work in Progress
+	* Robert
+		* continuing to juggle staff requests and coordinate with you guys
+		* https://github.com/MozillaFoundation/MoFoLondon/issues/34
+			* #mimi – get personalized invitations out to folks – we could use that form to capture who we're inviting
+			* how do people who makers, etc. fit into web literacy 
+			* "the best mozfest sessions ask compelling questions and crowdsource good answers" 
+			* Capture video! YES... also I can ask Kevin to support.+1
+		* Curriculum Workshop w/ Su
+		* Community Call + #TTWchat
+	* Kim - blog post, interview, started emailing and tweeting call for proposal asks
+	* Su - 
+		* Coordinators call+1 yay!double yay!
+			* do it again next month?
+			* do you need any additional resources to support you?
+				* blog posts! Kim's and mine soon...
+		* connected with several peeps about proposal invitations
+		* set design +100 yay!
+			* https://docs.google.com/document/d/1q1x06Bp0r7nGiILNRCRrpuhO1xtxoRrmG__ltu9xtWA/edit
+			* would love to integrate some of our designers and developers into this work if we can
+			* The IOT crew could definitely support the hall of mirrors, I think, we should think about how to engage them and others
+		* created (well not really) a facebook post (say more?!?!)
+		* a little tweeting
+		* Who is terror? https://www.youtube.com/watch?v=agSpbuzAF1w&feature=youtu.be
+	* Simeon - Reviewed #mimi plan + took a stab at blog post for Call for proposals + engaging African communities (DSO + Clubs) + revisited last years session selection process
+	* Marina - 
+	* Staff/community members - 
+
+	
+Call for Proposals
+Who are we inviting? 
+How are we inviting?
+What's our #MIMI plan?
+Questions:
+	* I’ve had a question about if it's web literacy - does it really include me? how does teaching/learning related to IoT, robotics, physical computing, fill-in-the-blank tech relate to our space?
+
+GitHub Repo
+https://github.com/MozillaFoundation/mozfest-program-2016
+	How to use: 
+		* Issues are submissions
+		* Top comment is the official submission and should never be edited!
+		* Labels will be space specific & searchable. 
+		* Facilitators (submitters) will provide their first and second choice for what space they feel their session is most appropriate for. 
+		* Later we will use the labels to help identify pathways.
+		* June/July is the time to read the submissions. 
+		* August is the time for curation.
+
+	Etiqutte:
+		* Facilitators will get an e-mail confirmation that their submission is available and public on GitHub.
+		* We need to be mindful that any comments we write are public and available to facilitator
+
+	New to Github? 
+		* Github intro lesson with Erika - June 29th 08:00PST//11:00 ET//16:00 BST
+		* Written tutorial - last year’s @ https://github.com/mozilla/mozfest-program. They are working to update and I will update this link when it’s done.
+		* Share your Github handle with Erika to get admin privileges
+
+Open Badges
+Need to think about open badges (https://www.openbadgeacademy.com/mozfest) - how do we want to incorporate? through particular sessions? through a pathway? through an experience in our space? Contact is Matt Rogers (matt.rogers@digitalme.co.uk, @mattdigitalme).
+		* Robert to chat Marina about this
+
+Closing Takeaways
+	Takeaways: What is something you're leaving this call having gained (answers or questions)?
+		* Clearer to-do's relating to the next process of picking sessions and a way to support those that are submitting sessions. Lot's of really cool ideas - very exciting.
+		* Lots of understanding/information, lots of support, lots of great ideas, 
+		* So much going on! I'm blown away by the activity: my key takeaway is that I feel much less in the drivers seat and much more on the bandwagon with you all now. So glad to see ownership and leadership developing... obviously this comes as we achieve greater clarity of purpose. I never expected any less from you all :) thanks for making my job easy :D
+		* Feeling ever more prepared to make the "ask"
+
+	Gratitude: What's something you appreciated from this group or an individual?
+		* So much awesome progress being made already - thanks!!! 
+		* Patience and the ongoing opportunities for acquisition of new skills 
+		* Progress. Good to be a part of something that's moving forward fueled by lots of work and contributions from the team.
+		* I'm grateful for your trust in stewarding this work and understanding as a juggle a number of personal/professional transitions.
+
+Meeting Agenda - May 27
+	* (5 min) Openings
+	* (10 min) Review roles
+	* (20 min) Review progress since last call
+	* (20 min) Next Steps: #mimi
+	* (5 min) Closing Takeaways & Gratitude
+
+__________________________
+(5 min) Openings
+	Celebration: What are you excited about right now? OR What's got you down?
+		* Half Term yay! Spending time with family.  A great cool 8x8x8 LED cube that I've seen and will be supporting the maker with.  Got me down, misunderstandings and assumptions had some of that this week too:(
+		* It was my birthday yesterday!!! I'm taking a day off today to load a truck with all my belongings and ship it to Texas with my in-laws who have taken over my whole home... Happy B'Day and TEXAS!!!! wow
+		* Received the volunteer award at CBIC Gala last night & 'the boy' graduates from high school next week!!! WOW well done :)Congratulations!
+		* This is my first community call so I'm really glad to be a part of it!
+		* 
+	Personal Norming: What is something you hope to get from the team today?
+		* Making sure everyone is feeling "in the loop" with progress & next steps
+		* continued direction, an idea of where invitations to proposals might slot into our vision (the call was very heavy on web... which is right and good, but I wonder if there is room for additions that encourage learning about computing and coding in general and just exciting tech?
+		* commitments to the #mimi plan – who's blogging about what and where
+		* 
+	Team Norming: What is something you hope to give the team today? What is something the team should consider?
+		* Updates on my conversations with Staff which have all been SUPER POSITIVE!!!
+		* Getting folks excited for the Call for Proposals
+		* the ability to laugh at my overexcitedness :D
+		* 
+__________________________
+(10 min) Review Roles
+
+NEW DOCUMENT:
+https://docs.google.com/a/mozilla.com/document/d/1Oi8Yg0Ct1NiB9Pght1kdbUfl1GgRz3qsx7n7CVkOSjE/edit?usp=sharing
+
+__________________________
+(20 min) Progress
+
+	* Space Description "blurb" has been submitted!!!
+		DEMYSTIFY THE WEB!
+		Grab your ticket to our carnival of learning! All who enter will gain the most important skills of our age: the ability to read, write and participate in our digital world. Mozilla Learning invites teachers and learners of all ages to join our funhouse of web literacy. Embrace the unknown! Experience the thrills! Imagine and share the full potential of the web with everyone!
+		
+		We’re looking for proposals that share fun, interactive ways to teach and learn the web in diverse, inclusive spaces; proposals designed for creative collisions; proposals that inspire people to engage in an openly networked world. 
+
+	* We've filled all of the roles with at least one person
+
+__________________________
+(20 min) Next Steps
+
+	* List of Post Topic and Audience
+	* Call for Proposals @ https://docs.google.com/document/d/1WzX89QAHS_owdzMwFv28YgYFCMDe-vMrhMKFhA0V7fA/edit#
+		* add audience 
+	* Robert to check on a space; Simeon suggests Medium as a possibility
+	* Include a short description of expectations of each space
+
+__________________________
+(5 min) Closing Takeaways
+	Takeaways: What is something you're leaving this call having gained (answers or questions)?
+		* A  list of things to do :D 
+		* ever more clarity on our call for proposals
+		* 
+		* 
+	Gratitude: What's something you appreciated from this group or an individual?
+		* Marina stepping up and fully engaing in a group that's already established... well done Marina!!+1
+		* really appreciate everyone being up for the challenge!!!!
+		* I really appreciate everyone listening to my ideas about the Zen Garden and Robert pushing me to speak up. Thank you for being so inviting! You are very very welcome and an asset :D
+		* 
+	ARE WE COMMUNICATING WELL?
+	Are we getting the right information out?
+		* Yup, I might finally get the point that this is an educator space not a kids space at some point!  I think last year confused things a little for me, but I reckon I'm there now tee hee+1 me too, we're all kids at heart though:)
+		* 
+		* 
+		* 
+
+==========================================================================
+
+
+Meeting Agenda - May 13
+	* (5 min) Openings
+	* (30 min) Review retreat outputs
+	* (10 min) Review roles
+	* (10 min) How are we engaging the community?
+	* (5 min) Closing Takeaways & Gratitude
+
+__________________________
+(5 min) Openings
+	Celebration: What are you excited about right now?
+		* napping this weekend, also MozFest!!!
+		* finding a better allergy medication :/
+		* Excited about an awesome CoderDojo for Visually Impaired children that I've been working on including the micro:bit and a circuit tumble lock
+	Personal Norming: What is something you hope to get from the team today?
+		* Some feedback and reflection on the MozFest plans that Kim and I put together+1
+		* Some understanding of what was talking about at Berlin
+		* We need to get call for proposal wording complete
+	Team Norming: What is something you hope to give the team today? What is something the team should consider?
+		* forward motion and momentum to move to the next step... hopefully some specific follow-up asks for Simeon
+		* peace of mind that will allow a good nights sleep :) not sure how :/
+		* sharing from the retreat
+
+__________________________
+(30 min) Review retreat outputs
+
+	* Link to Retreat Wiki: https://wiki.mozilla.org/Mozfest/2016/retreat
+	* Link to Drive Folder: https://drive.google.com/open?id=0B-EZWDUirQ46Qzg0dlBTMER6ckU
+	* Link to Demystify the Web Plan: https://docs.google.com/a/kimxtom.com/document/d/10YPMLm2iy1N3W-YG02dnZkFoR0z1wPvHehwvMjxA6UU/edit?usp=sharing
+
+Notes:
+	* Hall of Mirrors reminds me of the video going around about the man imprisoned for DUI beaming into the mirrors at men's rooms in bars. But we'd be lighter.
+		* Reflective experiences/gallery walk
+		* Fun house > fear house
+	* The entry way needs to capture the spirit, but delimit traffic or be the only way into the space, right?
+	* Question: Is the carnival/fun-house metaphor festival-wide or specific to this space?
+		* The idea of showing people a haunted house and then taking them behind the scenes is great.
+	* Potential things to connect/resurface:
+		* Gaming space
+		* A "room" people can control w/ IoT +1
+			* We could cue some user controlled signage like the "panic inc sign"" https://panic.com/blog/the-panic-sign/
+		* Team Rogue stuff
+	* It would be a good challenge for staff and allies to prepare rigorously to be "buskers" that are like mobile Ignite talks.
+		* Can Luke & co. write webby songs and perform?
+		* Place for music/music making w/ tech on the floor?
+	* Opportunity for BreakoutEdu-like experience w/ open IoT or a walled garden themed breakout room? Do we have web artists who could install?
+	* I saw a project once that printed "fortunes" based on tweets - thinking "Big" Zoltar +1 this is hilariously awesome. +1 we need this!!! anyone has a termal printer we could use?
+		* This + a tweetbot workshop = return to connecting educators, new learners w/ developers doing weird, personal, human things in this space
+	* I love the idea of a "ride" - "welcome to the internet, I will be your guide" needs to be present.+1, this is great.
+	* Sounds fun = think it'll be in how we balance the theme with being not too-theme-y
+//
+
+Walk-through:
+	* Entrance: Programmable signage
+		* Live-coded marquee
+		* improved littleBits signs?
+		* Barker w/ scheduling materials in lieu of scheduling poster
+		* Virtual tickets (can they sign up so we text people before a session they want to join begins?)
+	* Pass through hall of mirrors (also opp to reconnect audience w/ web art, human touch)
+		* space for wanderlust engagement
+		* Lightbeam interaction
+		* ascii art generator
+	* Open space
+		* hack jam space
+		* programming space
+		* sit down next to workers and ask questions, contribute, hand-off projects, improv learning
+	* Session spaces branch off of open space
+		* how many spaces?
+			* make'em w/ dividers?
+		* what kinds of proposals?
+			* could be for sessions
+			* could be for labs
+			* could be for galleries
+			* could be for arcades
+		* documentation station
+			* localize with us?
+				* document in your own language idea
+			* create a response and tweet it
+	* Questions
+		* Connections - will there be an IoT space? Will connected devices be spread out and in the science fair instead?
+			* IoT everywhere - it's gone mainstream -
+			* What's the anti-space group up to?
+		* Linking to youth zone - one of the things I loved last year was most/best integration of young people throughout mozFest to date
+	* Questions from Chad, FWTW. Disregard and move ahead as appropriate.
+		* Agree w/ Andre re: comms, but also worry about the event itself - web literacy is for all; mentorship, service, and community projects connect to what we do, as well, and to emergent open leadership curriculum, FWIW. not clear on what the worry is
+			* Is time spent convincing people that they can teach/they are teachers better than time spent on web lit is for all and you can share it, broadly?
+		* Is there a metaphor that does more of what we want and less of what we don't want? (i.e. competing w/ YouthZone)
+			* e.g. mentor fair
+		* Is there some unpacking to do about YouthZone based on last year?
+		* Are we learning, leadership, or web literacy space? Those inflections impact how I think about the space.
+
+Outreach
+	* Videos: 
+		* Let's also use this if/when we can: https://www.youtube.com/watch?v=bTxPRi_LDOk 
+	* should we push hard in/around London?
+	* 
+
+__________________________
+(10 min) Review roles
+
+TIMELINE
+	* Early May - fill out session proposal form ourselves to see what it’s like to complete it
+	* Early June - blog post about space #mimi
+	* Mid-June - create a short video to virtually walk through space (work with Kevin S.)
+	* Mid-June - tap #mozfest ambassadors that reach out into their community to get the word out (work with Emma)
+	* July - pathway coordinator (assign someone from staff?)
+	* July - session lead (assigns people to read/assess session proposals)
+	* August - travel person (Robert)
+	* September - facilitator mentor (assign someone from staff?)
+	* October - supply list, create assets, set design, posters, flyers, mirrors, makerspace, open learning space, visual cues
+
+Roles (accountable, but not solely responsible)
+Not creating everything – delegating and tracking
+
+#mimi Lead (May/June) – Kim & Robert 
+	* Execute a Mimi Plan: https://drive.google.com/open?id=1Cjc0uP06j1Q_QGfP29F0yZWEdwiZB5zNBZr25EoDGEc
+	* Track contacts: http://goo.gl/forms/GZqxTUAJmC
+	* Schedule blog posts from team, at least one highlighted on Mozilla Learning Blog
+	* Schedule vlogs from team
+	* Community Calls/Curriculum Workshop
+	* Make sure at least one blog post makes it to the MozFest website
+	* People to coordinate with (responsible, consulted and/or informed)
+		* Kevin Zawicki
+		* Erika Drushka
+		* Sarah Allen
+		* Kristina Gorr
+
+Set Designer & Stage Manager (May/June) – Su & Julia
+	* Design overall theme, layout, look and feel of the space;
+	* Recruit contributors to create and build space components;
+	* Design and produce space materials, signage and decorations;
+	* Create supply lists for purchasing or source alternative (free) materials;
+	* People to coordinate with (responsible, consulted and/or informed):
+		* Sarah Allen
+		* Spike
+		* Michelle Thorne & IOT guys
+		* Mozilla production team (specifically Luke I think)
+
+Session Lead (picks up in July) – Simeon & Robert
+	* Make sure the proposal submission process is working for us;
+	* Track submissions of proposals on GitHub; Tag, categorize, sort, etc. proposals;
+	* Assign proposals to individual team members for review;
+	* Finalize proposals and send invitations;
+	* People to coordinate with (responsible, consulted and/or informed)
+		* Staff Consultarati
+
+Pathway Coordinator (pick up in July) – Chad & Andre (yes, andre can help here too)
+	* Once spaces start to finalize their proposals, we're going to want to curate cross-space pathways. 
+	* This is always a little challenging because spaces are complex and having a dedicated set of eyeballs on it would be AWSM.
+	* Track sessions across different spaces to identify cross-space opportunities
+	* Name and describe the session proposals
+	* People to coordinate with (responsible, consulted and/or informed)
+		* Erika or Sarah, TBD
+
+Travel Person (picks up in August) – Robert & ??? 
+	* You can imagine this hell on Earth position;
+	* People to coordinate with (responsible, consulted and/or informed)
+		* 
+
+Facilitator Mentorship (picks up in August) – Amira??? & Simona (andre can help here)+1
+	* Introduce and acclimate facilitators to the MozFest experience;
+	* Guide facilitators through the space, plan, schedule, etc.
+	* Set and introduce diversity and inclusion standards/practices;
+	* Coach facilitators on participatory practices;
+	* People to coordinate with (responsible, consulted and/or informed)
+			* Sarah or Erika I presume... 
+
+Broadcasting & Documentation Lead (picks up in October) – ??? & ???
+	* Capture session and space outputs to share;
+	* People to coordinate with (responsible, consulted and/or informed)
+		* Kristina Gorr
+
+
+__________________________
+(10 min) How are we engaging the community?
+
+Just review upcoming plans at Curriculum Workshop and Community call
+	* Web Lit Workshop
+		* Tuesday, May 10  8 PM EST
+		* Tuesday, June 14
+	* Community Calls
+		* Wednesday, May 25: 4pm ET
+		* Wednesday, June 29
+
+__________________________
+(5 min) Closing Takeaways
+
+		* Takeaways: What is something you're leaving this call having gained (answers or questions)?
+			* a ridiculous level of excitement about set design :D
+			* More clarity on roles and responsibilities which is AWSM and some assignments too. I love next steps!!!
+			* so glad Su is ridiculously excited about set design:) & more clarify too+1
+		* Gratitude: What's something you appreciated from this group or an individual?
+			* Understanding and patience
+			* Super appreciate Su's enthusiasm for set design! I can't believe how giggly you got BWAHAHA. I thought you were going to fall out of your seat :D :D :D
+			* the ongoing level of enthusiasm for our work, I will nap well this weekend - good good :)
+
+==========================================================================
+
+Thoughts from Chad
+Last year because of the number of sessions that created some divisions between our pedagogical and technical (developer) sides in learning.
+Aurelia was doing subjective mapping with CartoDB – this was missed by people because it wasn't in the open
+How do we "close the loop" between membership in our learning community and those few people who build the next generation of open on the Web
+
+
+Community Wrangler Check-in on 4/29
+
+Meeting Agenda
+	* (10 min) Openings
+	* (10 min) How are we engaging the community?
+	* (20 min) Review existing input from staff and community
+	* (10 min) How should we interpret this information?
+	* (10 min) Closing Takeaways & Gratitude
+
+__________________________
+(10 min) Openings
+	Celebration: What are you excited about right now?
+			* good week teaching, especially my "challenging" class; my husband is coming with me to Berlin where we'll also be celebrating 20th wedding anniversary:)Congratulations! awesome! excited to meet him.congrats for your upcoming anniversary:)
+			* bank holiday monday! I need some family time :) seriously.
+			* getting pretty jazzed about Berlin on the horizon. I haven't been there before, and I hear it's super cool, but I'm always sad to leave home behind. So a bittersweet celebration ;) yeah, we are also leaving 18 year old son behind to fend for himself - yikes!!!Brave!
+			* Long weekend. Monday is a public holiday. Basically get one work day in the week to do stuff uninterrupted. I know that feeling :) one good day is all you need sometimes.with focus!
+	Personal Norming: What is something you hope to get from the team today?
+			* thoughts & ideas to share at planning retreat
+			* Thoughts on how to better engage the community < good call.+1 Found it a little hard to get a conversation going on Discourse past week.+1 yes, also on twitter, not as much interaction on #TTWchat as I'd like to see; how do we engage the lurkers?+1
+			* Something we can all collaborate on - coz I like collaboration :)+1+1
+			* Advice on how we can best synthesize the feedback we've already gotten and set us up for more to come.
+	Team Norming: What is something you hope to give the team today? What is something the team should consider?
+			* how do we keep Su & Simeon in the loop during the planning retreat? stowaways? sure! nice ;) Virtual hugs maybe? :)
+			* Some ideas following on from Frank's discourse addition < who is Frank tho? I'm curious... I saw his posts, he's prolific.He's from London Moz, runs a club and is awesome
+			* As above. Frank had some interesting insights and is not far from what I observed at MozFest last year.
+			* Hopefully some additional insight into what we already know people hope comes from MozFest.
+	
+__________________________
+(10 min) How are we engaging the community?
+	* Regional Coordinators Call
+		* Friday, May 6 3-4pm UTC (afternoon in Europe) Plans have changed and I can now be on this call, I'll contact Amira (although it's probably too late for input needed for Berlin)
+	* Mozilla Clubs Office Hours
+		* Have questions about Mozilla Clubs? Want to discuss what Mozilla Clubs looks like in your community? Want to share what your Mozilla Club is doing or where you need help? Join us at our monthly office hours on the last Thursday of each month at 10am ET/ 3pm UTC/ 4pm CET/ 8:30pm IST via hangouts.
+			* Upcoming dates for Mozilla Club Office Hours:
+				* April 28, 2016
+				* May 26, 2016
+				* June 30, 2016
+		* SU: This landed in email out to club captains
+	* https://teach.mozilla.org/community
+	* Community Calls
+		* Wednesday, May 25: 4pm ET
+		* Wednesday, June 29I can be on this (cool!)
+	* Web Lit Workshop
+		* Tuesday, May 10  8 PM EST
+		* Tuesday, June 14 Thisis 1am for me, but I could try
+	* Tweet Chat
+		* KIM: Thursday, April 28 (contact Kristina Gorr)
+		* Added to wording to #TTWChat promo "Your participation will also help us plan and create new curriculum workshops, teaching kits and our annual MozFest conference."
+		* Tuesday, May 31
+		* Thursday, June 30
+	* Newsletter
+		* 
+	* Hive Calls (No information yet)
+		* RBF: Contacted Simona so that she can share out Su's message about Discourse with Hive ppl in particular.
+	* Discourse
+		* Simeon - Week of 25th April
+			* we could contribute to Simeon's thread
+			* Discourse hasn't been the most effective or favored space > login required
+			* What if we directed people to comment there.
+			* Could we paste others comments into discourse if they reply on twitter so that we continue to have all responses in one place+1
+			* Could Simeon reference us and others in discourse so that we know when a new question has been added
+		* ACTION PLAN
+			* Should we add the madlib to discourse  is it worth inviting them to answer in reply to the tweet +1 also, then we can paste in anything that doesn't get directly entered in discourse
+			* There's a new clubs Facebook group too! 
+			* 
+			* Kim – Twitter, official hashtag #mozfest add #teachtheweb for us
+			* Su – FacebookCan I tweet out too? not wanting to step on toes if that is the case, just know how yes please! thanks for asking Su... 
+			* Sim – Discourse
+			* Robert – Staff spaces
+
+Please provide some example prompt(s) we could use for soliciting "purpose statement input" at upcoming calls and meetings:
+	* Don't miss the Mozilla Learning space at MozFest because we're all about ________________ and you're guaranteed to go home knowing/feeling ________________.
+		* see responses below :) I can use this in the reg co call on Friday 6th although that wil be a little late
+	* From KIM: Why would you participate in MozFest? http://piecesofstardust.tumblr.com/post/143446649933/journey-to-mozfest-part-1
+	* What is Mozilla Learning to you?  How would you use MozFest to spread the Mozilla Learning message?
+	* What activities do you think would help Mozilla Learning to onboard more community members?+1
+	* What do you love about being a part of the Mozilla Learning Community? +1
+	* What does Mozilla Learning give to you/how does it help you?
+	* Why is learning at Mozfest important to you?
+	* How does Learning at MozFest help you achieve your learning goals?
+	* What does MozFest mean to you?
+	* Your participation will also help us plan and create new curriculum workshops, teaching kits and our annual MozFest conference.
+	* Why is learning & teaching through Mozilla important to you?
+	* Why do you choose Mozilla Learning to help teach Community?
+
+__________________________
+(20 min) Review existing input from staff and community
+
+SEE BELOW OR ELSEWHERE (LINE 282)
+From the Mozilla Learning team call on Wed 4/27
+	Roll Call - Madlib: Don't miss the Mozilla Learning space at MozFest because we're all about ________________ and you're guaranteed to go home knowing/feeling ________________.
+		* Sarah Don't miss the Mozilla Learning space at MozFest because we're all about interactive planetary experiences and you're guaranteed to go home feeling out of this world.
+		* Chad: Don't miss the Mozilla Learning Space at MozFest because we're all about keeping the web weird and you're guaranteed to go home like you have a home there, as well.YAH!I like this one :Dtruth has been spoken.
+		* Simona: Don't miss the Mozilla Learning space at MozFest because we're all about keeping the web inclusive for all voices and you're guaranteed to go home knowing/feeling part of a movement.
+		* Andre: Don't miss the Mozilla Learning Space at MozFest because we're all about technological exploration and you're guaranteed to go home with new awesome digital skills
+		* Jenn: no idea, it will be my first time! You will <3 it!
+		* Lindsey: Don't miss the Mozilla Learning space at MozFest because we're all about bringing more voices into shaping the future of the Web and you're guaranteed to go home knowing/feeling empowered to help others read/write/participate online_. did you practice that all week? #elevatorpitch
+		* Robert: Don't miss the Mozilla Learning space at MozFest because we're all about plugging you into the web and you're guaranteed to go home feeling like an internet thing. Wut. ;) <3
+		* Julia: Don't miss the Mozilla Learning space because we are all about building lasting relationships and you're guaranteed to go home feeling like you are part of a larger community
+		* ErikaD: Don't miss the Mozilla Learning space at MozFest because we're giving away candy and free puppies! We gotta snag an espresso floor this year +1000Way to take this with the appropriate level of seriousness Erika!:D :D #getyourcustomsformsnow
+		* Kristina: Don't miss the Mozilla Learning space at MozFest because we're all about inclusion and you're guaranteed to go home having the tools to practice inclusion in your day-to-day life!
+		* Kenyatta: Don't miss the Mozilla Learning space at MozFest because we're all about innovation and skill-sharing and you're guaranteed to go home knowing/feeling you can conquer the world.
+		* Caro: I will miss the Mozilla Learning space at MozFest, since my Fellowship ends in September :( nooooooooo?! can we smuggle you in? we *want* you there!<3+1<3
+		* Michelle: Don't miss the Mozilla Learning space at MozFest because we're all about experiential peer learning and hopefully excursions into the city and you're guaranteed to go home knowing/feeling exploratory and connected. \o/ connect all the things!!! \o/
+		* Janice: Don't miss the Mozilla Learning space at MozFest because we're all about innovating learning and you're guaranteed to go home with new knowledge and inspiration.
+		* Jess: Don't miss the Mozilla Learning space at MozFest because we're all about _____stuff___________ and you're guaranteed to go home knowing/feeling ____all the feels___________
+		* An-Me: Don't miss the Mozilla Learning space at Mozfest  because we're all about community and you're guaranteed to go home with new skills, ideas, and partnerships
+		* Katie: Don't miss the Mozilla Learning space at Mozfest because we're all about inviting you to dream about possibilities and you're guaranteed to go home knowing/feeling that you can make a difference and impact others.  
+		* Sam: Don't miss the Mozilla Learning space at MozFest because we're all about the promise of the Internet for learning in a networked world and you're guaranteed to go home knowing how the work you do is helping to drive that vision.
+		* Hana: Don't miss the Mozilla Learning space at MozFest because we're all about the promise of the Internet for learning in a networked world and you're guaranteed to go home knowing how the work you do is helping to drive that vision.
+
+
+__________________________
+(10 min) How should we interpret this information?
+	* My brain needs time to process all the input
+	* We're going to comment on stuff that resonates in the google docs (not in ether pad)
+	* We're going to suggesting mode to delete/edit/adjust stuff we think might need to be removed
+	* We're going to categorize and prioritize what we think is most important.
+		* we'll individually suggest categories
+		* we'll 
+	* 
+	* 
+
+__________________________
+(10 min) Closing Takeaways
+
+		* How to keep the team connected during Berlin?
+			* MatterMoz?+1 that works! 
+			* Kim will also be tweeting up a storm!!!
+			* We could get some real-time feedback on Friday (4-5pm Berlin time)
+			* 
+		* Takeaways: What is something you're leaving this call having gained (answers or questions)?
+			* a process for processing input :)+1
+			* A clear way of communicating with one another, and a clear strategy for a second attempt at engaging the community. I feel much clearer in general and more purposeful too.. clearly ;)
+			* I feel like we're in a better place on who's doing what and where, which is GREAT.  My next questions are about how we will work to come to consensus as we drive towards single statements to represent us all and our diverse input/perspectives.+1
+			* A better sense of how to reflect on the input we're getting (categories, comments and all) which is useful to generate ideas for purpose.+1
+
+		* Gratitude: What's something you appreciated from this group or an individual?
+			* This team is insanely well organized and high functioning. thank you for that! :)
+			* the openness and willingness to jump right in and get stuff done!
+			* enthusiasm, warmth and my favourite attitude amongst us all... the 'can do' attitude :)
+			* I feel like the words 'Game on!' and the emotions around them summarize this team - which I absolutely love and all the willingness to do stuff is very motivating for me personall. Thank you.
+
+==========================================================================
+
+Community Wrangler Check-in on 4/22
+
+Prep work: Calls and Learning Spaces
+What Mozilla community calls and learning spaces are we already a part of?
+	* Robert
+		* Weekly Mozilla Learning Staff call
+		* Bi-weekly MozFest staff crew "Consultanati" checkin (see below)
+		* Berlin MozFest Retreat
+	* Kim
+		* Berlin MozFest Retreat
+		* Curriculum Workshop! & Community Call
+		* St. Anne's-Belfield School - computer science coordinator/instructor K-8/tech camp organizer, a Mozilla Club
+		* Tech-Girls - founder (http://tech-girls.org), a Mozilla Club
+		* Other networks: Global Education Conference (http://www.globaleducationconference.com/), CSTA – Computer Science Teacher Assosciation, NCGS – National Coalition of Girls Schools, Systers - Anita Borg Institute
+	* Simeon
+		* Mozilla Clubs Regional Coordinators
+		* MozFest East Africa
+		* Digital Skills Observatory Research Community Calls
+		* Mozilla Kenya Perpetual Chat
+	* Su
+		* Mozilla Clubs Regional Coordinators
+
+How can we use these spaces to get input on our "purpose" before Berlin, feedback after Berlin, and get the word out about MozFest? purpose = who do we want & why would they choose to be there
+	* persona work shared by Simeon @ https://wiki.mozilla.org/Mozfest/2015/Mozretreat#Personas
+	* 
+	* 
+	* 
+	* 
+
+Please provide some example prompt(s) we could use for soliciting "purpose statement input" at upcoming calls and meetings:
+	* Don't miss the Mozilla Learning space at MozFest because we're all about ________________ and you're guaranteed to go home knowing/feeling ________________.
+	* 
+	* 
+	* 
+
+
+Meeting Agenda
+	* (5 min) Opening Celebrations
+	* (10 min) INTRODUCTIONS!
+	* (10 min) DARCI
+	* (10 min) How to connect consistently
+	* (10 min) Stuff from other places
+	* (10 min) How we can engage the community
+		* we'll need to follow-up on this, but there's not a lot of time!
+	* (5 min) Closing Takeaways & Gratitude
+
+Opening Celebrations!
+	* Simeon at a wedding
+	* Kim waking up ;)
+
+DARCI
+see above
+	* It's a decision/responsibility matrix adapted from RACI https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+	* We add D for Decider in order to make power dynamics transparent. The Decider has ultimate oversight;
+
+How to connect consistently
+	* Su: generally THIS time works!
+	* ALL DECIDED: THIS TIME starting next week
+
+
+STUFF from other places...
+
+		* YOUR INPUT: What's Our (Learning Team) Purpose?
+			* What's the statement we want to make about our work to people who join us at MozFest? How do you interpret our unique value-add at Mozilla. Say it In as few characters as possible. The most succinct but complete and accurate statement wins! The prize is my admiration and deep respect ;)
+				* Hands on, participatory contribution and learning that equate building an open and inclusive web with building open and inclusive community
+					* Inclusion, Contribution, Revolution +1+1
+					* A collaborative, inclusive and innovative space to advance the open web revolution.
+				* To unlock agency and expand opportunities through our hands-on participatory awesome events and content
+				* To advance the promise of the Internet for learning (stolen from Building Networks Team convo planned for later today; Hivey)
+					* Love this one!+1+1
+				* A network that makes together, learns together.
+				* Advancing the promise of the web for learning (oops, Sam, we stole from same place.)
+				* Connecting people to projects, opportunities and other people to advance web literacy while making an impact in their communities 
+				* rallying communities to shape the agenda, create impact, and future cast technology for learning 
+
+		* Your Input: What do you want to see MORE of in the MLN Mozilla Learning (< thank you) Space at MozFest this year?
+			* More interactive learning aka learning from each other through engaging activities (less session-based) +1
+			* More free time to network and meet everyone. +1+1+1+1+1
+			* Loved the Global Village space last year - would love to see our space embody all the places people learn (museum area with Tate Modern activities, library, classroom, community space, home, etc.)   +1+1
+				* Hmmmm, this is intriguing. I don't wanna rip off the global village, but we could totally do a museum, library, community center, science center... maybe there is a way to do this via pathways and across other spaces... brain juices flowing :)
+			* Customizable space <- can you say more about this? Sounds intriguing.thinking bean bags, boxes, lighting, just to make corners and chats more comfortable and unique. I loved the "quiet space" from a couple years ago...also, just want a reason to build forts - ah, like a modular DIY space. love it. also love forts. +1 for fortsyes! modular DIY ;)
+			* Live Mozilla Curriculum Workshop recording with participants that are attending <-- this needs to happen! +1 +1 also talked to Bobby, think a pop-up podcast zone for all MozFest would be put to good use LOVE PODCASTS <3 <3 <3+1
+			* IoT, connected home goodness, I want our space to feel even more like "Teh Future"
+			* Early release of call for session proposals +1
+				* I'd like to do this via the community wranglers... even if proposal calls get delayed, people should be ready to hit submit on day 1 because we've prepped them and spread the word.
+			* More local educators and youth jumping in and out of the space - take advantage of the community we've gathered locally and engage them! ( I like how Su's making station did this last year)I can make introductions with key partners here in London and the UK- would be awesome to plug them in earlier to spaces so they feel more involved
+
+		* Spotlight: Web Literacy Leaders at MozFest video
+			* https://www.youtube.com/watch?v=bTxPRi_LDOk our team rocks this videothis video is fantastic
+			* New resource for web lit / mozfest storytelling
+			* Use as part of recruitment for Mozilla Learning track this year
+			* Share on our social media channels
+			* Incorporate into Web Literacy Leaders trainings
+			* Also, this video of Marina's experience: http://inpoints.org/index.php/2016/02/11/ride-with-me-to-london/ I am so into Marina's work in this video
+
+How to Engage in the Community
+	* Regional Coordinators Call
+		* Friday, May 6 (afternoon in Europe)
+	* Mozilla Clubs Office Hours
+		* Have questions about Mozilla Clubs? Want to discuss what Mozilla Clubs looks like in your community? Want to share what your Mozilla Club is doing or where you need help? Join us at our monthly office hours on the last Thursday of each month at 10am ET/ 3pm UTC/ 4pm CET/ 8:30pm IST via hangouts.
+			* Upcoming dates for Mozilla Club Office Hours:
+				* Su: April 28, 2016
+				* May 26, 2016
+				* June 30, 2016
+	* Community Calls
+		* Wednesday, May 25: 4pm ET
+		* Wednesday, June 29
+	* Web Lit Workshop
+		* Tuesday, May 10  8 PM EST
+		* Tuesday, June 14
+	* Tweet Chat
+		* KIM: Thursday, April 28 (contact Kristina Gorr)
+		* Tuesday, May 31
+		* Thursday, June 30
+	* Newsletter
+		* 
+	* Hive Calls (No information yet)
+		* RBF: need to figure this out
+	* Discourse
+		* Simeon - Week of 25th April
+
+GO TEAM!
+
+
+==========================================================================
+Check-in w/ Kim & Robert on 4/18
+
+Questions:
+	* Who has traditionally been the target audience for MozFest? For MLN? For participants? For facilitators?
+		* this is a good question without a simple answer (as always). OK, the simple answer: 
+			* For MozFest in general: advocates for the open web.
+			* For MLN: mostly our friends and community members; educators using or co-creating Mozilla resources, who have traditionally been out-of-school time or informal educators and these days are club captains; Some (small) number of random walk-ins or local formal educators; 
+		* Who are we trying to reach this year AND who *can* we reach?
+			* Non-local, non-Mozilla folks tend to have stipends: they submit a good proposal, they're accepted, we stipend their travel OR they're already close friends we know we want to be there;
+			* unpack what reach looks like:
+				* local vs. remote – bring people in live without having to be there
+				* direct vs. indirect – does activity at MozFest extend beyond MozFest (train the trainer, design for audiences)
+					* our direct audience doesn't have to be our target audience
+					* our focus could be "reach the most learners possible"
+
+	* Who has shown up in the past? Do we have demographic info? Do we know why they show up? What they love & what they want to see improved?
+		* Not great data on this. Mostly it's folks who either a) can afford a ticket to London, b) are sent there on Mozilla funds, or c) are Europeans, namely Brits. There's an incredible diversity for a tech gathering, but a more modest one for what you might expect from a global gathering;
+
+	* What new experiences, backgrounds, ideas, thoughts do we want to see represented at MozFest? What are their barriers for entry?
+		* This is a great question, it's exactly the sort of thing that I can take to our team for some input!
+
+	* What does DARCI mean?
+		* It's a decision/responsibility matrix adapted from RACI https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+		* We add D for Decider in order to make power dynamics transparent. The Decider has ultimate oversight;
+		* You can see a drafty DARCI below for this work;
+				* Decider: TBD
+				* Accountable: Robert (w/ support from Kim)
+				* Responsible: Community Wranglers
+					* Kim
+					* Su
+					* Simeon
+				* Consulted/Helping:
+					* Amira Dhalla
+					* Julia Vallera
+					* Chad Sansing
+					* Andre Garzia
+					* Simona Ramkisson
+					* Lainie DeCoursy
+				* Learning:
+					* 
+				* Informed: 
+					* Learning Team
+					* Learning Community
+
+	* So many cool ideas are being shared/incubated during the teachtheweb curriculum workshops. How can we facilitate their next steps?
+		* This is exactly on point. That's what we'll want to do over the next 2-3 months. Create a space that invites folks participation and motivate them to show up!
+
+TODOs for Friday 22 call
+	* Kim: Follow-up with Chad about us doing a curriculum workshop on preparing a proposal for MozFest 
+	* Robert : get a list of all the Mozilla Learning Activities.
+		* working on this... got some information, need to compile
+	* Robert: Try to get some feedback from the MozFest crew on demographics of attendees (where do they come from);
+		* They don't collect this information!!! We've got nothing to answer this question with.
+		* Trying to get a sense of what % of attendees were funded by Mozilla to attend.
+
+
+
+==========================================================================
+Staff Crew Check-in on 4/12
+
+Agenda
+	* (15 min) Let's get it all out there!
+	* (5 min) Robert's Approach
+	* (10 min) Timeline & Logistics
+	* (15 min) What's missing
+	* (5 min) Closing: Key Takeaways and Gratitude
+
+
+(15 min) Let's get it all out there!
+What brings you to the call this morning? What's your MozFest passion? 
+If a MadLib helps here, let's go with: I'm joining this crew to make sure __________________ is represented and/or we don't let _________________ happen again.
+	* Andre: I'm joining this crew to make sure fun and creativity +1 are represented in all our actions
+		* too many sessions crammed into a short time!
+		* my favorite mozFest thing is EXPLORING! I love to wander around and be surprised by stuff.  I wish this could be facilitated.
+	* Julia: I am joining to make sure we build new relationships/friendships through simple FUN +1 so we don't exhaust people again. (been exausted there before, know the feeling)+1
+	* Simona: I'm joining to make sure to make sure is that we grow and better embed the inclusion and diversity piece is represented in more than one dedicated space and that we see it anchored in core programming i.e speakers, spaces and sessions +1+1 +1
+		* quality of sessions was affected by...
+		* making sure that people feel like this is a place to come back and work again
+		* Working with speakers and session leaders – logistics and facilitation are not completely removed from each other +1
+	* Chad: I'm joining to make sure we create inclusive, welcoming spaces for playing, making, and learning outside sessions and other more formal spaces; I'd like to make sure we don't lose large, widely differentiate-able spaces for hackery. +1 (2016 is the year of the sandwich printer) YAH.
+		* The part that blew my mind as a first-time participant was having the time and agency to choose which worthwhile thing to do in depth over the whole weekend in community - there was nothing like that in traditional NA public education for me until I could bring some back. <3
+	* Robert: I'm gonna add my two cents below ;) +1 to everything above!
+	* 
+
+Do you have an idea(s) or things in the works that we should definitely know about?
+	* See Amira's TEAM ROGUE LEARNING notes below or in this pad: https://public.etherpad-mozilla.org/p/mozfestteamrogue (feel free to add notes or ideas!) <3 <3 <3 this pad, so many good ideas!!! plusses+1
+	* I would like to see an incubator/hacker/maker space. <-- I want this too! 
+	* I would like to see some sessions become a combined ignite sessions to "zip" the amount of content in a fun, rigorous way for folks who enjoy such talking events.
+	* It would be great to have a space session that kicks off Mozfest similar what AMC did on teaching people to be good listeners, supportive 
+		* Seconded :) 
+		* third - music/movement is good to warm up
+	* Can we have MLN Picnic?
+		* Bring your own sandwich supplies, put them into the Run, Sandwich, Run! arrays, and eat what you generate. I have some tomato and lettuce toners here... :)+1
+	* I would like designated time for reflection at the end - it was very helpful to do this with our Diverse leaders folks last year
+	* Web Literacy Leaders - this program (developed by An-Me and Chad/me) and its first cohort will likely launch ahead of MozFest. We would like MozFest to be an opportunity for them to have a F2F gathering and some responsibility for sharing the OER they develop or facilitating/sprinting on related work.
+
+Flags
+	* Youth Zone – when they ran out of room they annexed the MLN space in a way that was disruptive
+	* There is a tension between giving wranglers and "pathfinders" agency in organizing the work and then relatively late-appearing instructions from the event team.
+
+(5 min) Robert's Approach
+Robert shares what he'd like to make sure that we lead with...
+	* Doing less means compromising more (appreciate the difficulty here)
+	* We let our community space wrangler lead and make decisions that are informed by our deep knowledge of this space, but driven by them
+	* 
+
+	* Questions
+		* What are the mechanisms to make sure the team is informed?
+			* let's deep dive on that below here, but basic piece is that Robert is the go-between and we can create new spaces for doing that too, but their not 
+		* Can we make a DARCI for this?
+			* YES! Good call:
+				* Decider: ??? Not 100% Sure but guessing Sarah?
+				* Accountable: Robert
+				* Responsible: Community Wranglers
+				* Consulted: MLN Staff MozFest Crew
+				* Informed: Whole MLN Team
+			* Deadlines, clear accountability and expectations are key 
+				* Strong suggestion is to reverse engineer a schedule from last year w/ best guess deadlines and mentor texts shared ASAP.
+					* thanks Chad, this is great.
+			* We are using a variation of DARCI here in Rio which might be a good idea for MozFest with the following roles:
+					* One person responsible < this is what we call accountable and I would stick to that language
+					* Any number of people consulted/helping < I would call "helping" as responsible
+					* Any number of people as LEARNERS/apprentices on that task < I like this... need to think about it a little bit, but the spirit is great maybe also "shadowing"
+				* So with this system we usually have 1 responsible person, 2 people being consulted and helping and 1 or 2 apprentices learning about that type of task.
+
+
+(10 min) Timeline & Logistics
+	* April – solicit staff and community member input that can inform our Purpose Statement at the Berlin MozFest retreat
+		* Robert to use weekly MLN staff calls to get staff input
+		* Wranglers to use regional coordinator calls, club captain emails, Hive calls, community calls, curriculum calls, etc. to solicit input
+	* May – Berlin retreat: nail down space logistics and determine a Purpose Statement for the Mozilla Learning space at MozFest
+		* Before we as a team begin to really plan out the logistics for things like what's in Amira's pad we should invite our community to respond to us.
+			* Time is a major blocker here;
+			* Can we create a hybrid? Where we are prepared but also accommodate folks;
+		* Socialize this out with our staff and communities ASAP to get their interpretations
+		* Suggestion: Have a timeline and mentor texts for the first task coming out of the retreat.
+			* what do you mean by "mentor text" 
+				* "Here is what you should comment on GH to 'claim' a session." "Here is an acceptance email." "Here is an email extending a travel stipend." "Here is a Google Form you can send to get passport and travel information from stipended presenters."
+		* Suggestion: Try to establish an expectation of how much time there will be from each ask until its task is due (say 2 weeks or whatever) and commit to having mentor texts/resources/calls schedules ready to go out with each ask.
+		* Suggestion: Begin office hours for community space wranglers. Maybe rotate as staff helpers. Every two weeks starting in May; we each do two w/ Robert or an event team member?
+		* Suggestion: Prep and practice with a dummy repo if we're using GH again and share processes for articulating the differences between labels and milestones and resolving conflicts between groups that want the same session.
+		* Suggestion: Community Wranglers Podcast. Get them all talking about the experience, share their stories! Boom.
+		* Suggestion: badges? Recognize all their efforts...
+	* June – Request for proposals opens! 
+		* Use community calls and spaces to motivate proposals
+	* July
+		* Suggestion: do something in July so as not to lose momentum; maybe work with space wranglers to develop kick-off events modeled after inclusion work? Participation guide for Mozfest?+1
+	* August – Start proposal review
+	* September – Send acceptances < i wish this could happen sooner +1+!+1(also if it comes to if funding is involved) OK, I'll try to get a better assessment of this so we can feel reassured or anticipate this as a major blocker.
+			* Volunteers/Mozilla Community goes crazy with anxiety waiting for acceptance letters  (or maybe it was just me) yap.
+
+
+(15 min) What's missing
+What is missing from the plan above? What/who should we include in this plan?
+	* July.
+	* Roadmap for community wranglers so they never feel lost.
+	* Inclusion deep-dive in session evaluation, selection, and planning  -  from Simona. +1 from Chad.
+	* Answer me this: How do we ensure that we are doing our utmost best to deliver quality programming - from Simona. +1 from Chad.
+	* Time and space for co-designing the kinds of spaces and events we'd like BEFORE the last three weeks before MozFest - from Julia. +1 from Chad +1+1
+	* Can we sync the topics for the curriculum workshop events with the areas inside the MLN space so that our calls pave the way to mozFest? 
+		* Kinda sorta - we try to follow the MLN editorial calendar, but we also break ranks sometimes to support specific projects with time-constrained needs; so....definitely for a summer episode, but maybe not for all 3 summer episodes? Definitely for October? Thats good! If we have just a number of calls in sync that already shows movement towards mozFest which is the whole idea. :D
+		* We can start spinning this up w/ planning for calls after May, which is set on youth civic engagement.
+
+
+(5 min) Closing: Key Takeaways and Gratitude
+How to stay connected? How do you want to be involved?
+	* Staying connected beyond calls: Can we have a space on the mattermost/chat.mozillafoundation.org thing? It would allow for cool async comms and also for informal chats!+1
+	* Keep this group as the consulted staff team – bi-weekly meetings
+
+What is your takeaway from this call? What is the single most important thing you are leaving with or excited about? How would you like to remain included?
+	* Excited to have more time to plan and that we will have three community members to build this with
+	* Structuring the process ahead of time, but not the product, shows both care for our wranglers and trust in them.
+	* Definitely big +1 on the start time this year 
+	* I loved all the fresh ideas and how mozFest will be always kept on the bleeding edge of awesomeness thanks to you folks.
+	* 
+
+Kudos, thanks, acknowledgements, positive reinforcements, things to work on next, constructive feedback:
+	* To Robert for all the awesome work
+	* Major love to this team! 
+	* Robert le Robert - wrangle on! This is a great team to be a part of - thoughtfulness and compassion abound with deep expertise.'Ca
+	* 
+	* Thank you all for your deep knowledge and commitment to making this awesome! Keep the feedback coming.
+
+
+
+==========================================================================
+
+Notes from Check-In w/ Amira Dhalla on 4/11
+
+\/\/\/\/TEAM ROGUE LEARNING\/\/\/\/\/\/\/\/\/\/\/\/\/\
+https://public.etherpad-mozilla.org/p/mozfestteamrogue
+
+	* Engaging staff to vision what they think is cool and fun
+	* Having sessions that respond to the theme, but having areas that really produce experiences
+	* We have SO MANY, WAY TOO MANY sessions in our space and staff never get to go and attend other sessions
+	* For staff (and maybe anyone) we're focused on aspects where we can dip in and out
+	* A three-day long experience may be the wrong level of commitment
+	* A place where people can discuss challenges and opportunities will work for some folks
+	* A good example of a good experience:
+		* David Ascher think at Orlando
+		* A teach the web relay-race – something like the science sprint or Laura Hillger's science sprint
+		* or a weekend-long skill-share handoff – sit down, learn a skill, hand it off to the next person before they leave
+
+On getting broad community input
+	* If we're getting community input, we need to set some clear boundaries and manage expectations about how input will be used
+	* Simeon or others can definitely take 5 minutes and then there's a monthly email that goes to all coordinators and club captains – Amira is definitely the best POC
+
+==========================================================================
+
+Call
+Send SMS
+Call from mobile
+Add to Skype
+You'll need Skype CreditFree via Skype
+
+
+
+
+Notes from All-Hands session
+	* Concerns around "carnival" theme
+		* interpretation of carnival
+	* Need to contextualize the theme for different audiences - connect to different outcomes we're after
+	* Need better articulation of what the value is for coming to mozfest / facilitating 
+
+Making the invitation to mozfest more inviting - making the web more inviting
+Help fuel how mozilla approaches learning in 2017 and beyond
+
+https://www.youtube.com/watch?v=bTxPRi_LDOk - web literacy leaders video from mozfest 2015
+
+Who do we want to invite to propose sessions? Who does an excellent job of creatively teaching others about the web - add to http://mzl.la/mozfest2016-mln-invites
+
+

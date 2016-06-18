@@ -1,0 +1,72 @@
+Connections
+
+Reps, MLN
+1:1s with community members really changed the levels of engagement
+--> is this scale-able? 
+--> Guillermo - working on having reps coach each other, best practices on this would be very useful (eg dealing with challenge re: scale + communication (online & in person) - particularly online in Africa)
+--> how to determine the value of this work overall through coaching and 1:1 support
+
+Learning Hub, curriculum
+How to take this curriculum to scale and use it in other places?
+- financial tools have mostly been an example
+- a lot of the training re: how does data get to my phone? etc
+- DSO is not teaching financial skills/services specifically, focusing on teaching digital/web literacy skills more generally --> assumption is that people are more likely to teach themselves relevant apps/etc if they have an overall understanding/strong grasp on web literacy
+- "all web literacy is local"
+
+Research
+Best practices re: how to take the lessons learned from this smaller intervention and scale/have broader assumptions about demographics
+- the danger is that you don't want to do marketing research and call it ethnography
+
+Mozilla clubs
+- Clubs are working very hands-on with older women, esp in Africa, re: how to use financial systems to support their small businesses + financial literacy
+- can use this to tell a larger story re: what we're doing in this work overall
+- can also add to lessons learned?
+- piloting a 'club'-type work in Nairobi
+- connect w/Amira re: women & web literacy hub re: research
+
+Outstanding questions + "to dos"
+- how to meet people where they are? eg people who are already using Facebook, only familiar with Facebook online
+- An-Me to connect w/CEO of banking system in Kenya (Equity?)
+- explore connection between DSO (Laura/Bobby) + women & web literacy (Amira) + veterans (An-Me) case studies re: web literacy & economic empowerment 
+- test w/Amira's audience as well
+
+BRAINSTORM
+
+Impact
+- How does this impact the 5 issues/strategic plan? Is there a through-line we can draw to 1 or more issues?
+- Helping to flesh out the "so what" of web literacy - why should people care?
+--> is the goal getting people into (a more) formal financial system or the formal economy? (subtle, but important difference)
+
+(Possible) Output (s)
+- open research practices: basic best practices to share (eg. how do you gather some initial user info re: opportunities/challenges before you go out and build a thing)
+---> for Mozilla, but also in the wild!!
+---> different research methods (eg. ethnography, participatory action research, etc) + resources
+- Meta-analysis re: how people are gathering data across the org, best & most common practices
+- Process by which people learned the web lit skills that led to them becoming more web literate
+--> process for developing the curriculum (eg how you gathered and incorporated culturally relevant examples/contexts into it)
+--> story of decision process re: how and why they decided to incorporate technical skills into the web literacy curriculum
+- assumption/theory of change: getting people to understand how to take and apply web literacy skills, technical skills are necessary but not the main focus
+- lessons learned & best practices re: a Northern organization doing research in the global south
+- is this a remixable model?
+
+Comms
+- use "web literacy" consistently (not digital literacy)
+- Common sound/look/feel for research papers + place to find them --> there are a lot coming together all over the place, would be helpful to have a template/resource
+---> a set of questions + branding
+---> Best practices re: what a funder would look for in this research (eg. evidence of X)
+- Where does this get shared publicly? How do we make it easy to find?
+- DSO (Laura/Bobby) + women & web literacy (Amira) + veterans (An-Me) case studies re: web literacy & economic empowerment 
+--> useful as a comms piece
+--> also useful as demo re: what we mean by web literacy
+- locally relevant stories around our issues agenda?
+
+Beyond
+...!
+
+
+
+
+
+
+
+

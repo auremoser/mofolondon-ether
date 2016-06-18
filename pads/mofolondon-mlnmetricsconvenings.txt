@@ -1,0 +1,91 @@
+MLN Metrics & Convenings Discussion
+All-Hands London
+
+WHEN:      Jun 17 2016 @ 11:30 AM BST
+WHERE:    Great Western One
+
+Session Lead:  Arliss (Data & Metrics Lead, MLN )
+
+Description:
+
+This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention (staying engaged after the convening, looking at ways to continue engagement).
+
+Thank you for joining this session ... please add your name and affiliation below
+	* Arliss - Mozilla Leadership Networks
+	* Lainie - Mozilla Leadership Network
+	* Abby - MLN
+	* Sarah- Convenings
+	* ErikaD - Convenings
+	* Aurelia - MLN/MSL
+
+
+Suggested Attendees:
+	* Sarah Allen (Convenings)
+	* Erika Drushka (Convenings)
+	* Aurelia (Mozilla Science Lab)
+	* Anna, Rob and Christie (Mozilla Science Community Members)
+
+Possible Attendees:
+	* Jenn Beard
+	* Hana Sun
+	* Kaitlin
+	* Simon
+	* Lainie
+	* Kenyatta
+	* Sam B
+
+
+Talking Points:
+
+	* Introduction
+
+	* Amazing work done to-date by Adam Lofting
+		* KPI: ‘Network Strength’ - proposed late 2015
+			* A measure that captures the health, resilience, size and influence of the network.
+
+			* Factors that contribute to Network Strength (sub KPIs):
+				* Network Size -- Number of active members
+				* Network Connectivity -- Number and strength of connections between members
+				* Network Alignment -- How strongly members identify with Mozilla and our "issues"
+				* Member Influence / Reach -- Using our leadership tiers - need to develop how we measure this and what data to collect
+
+		* This work will give us more than a KPI - we’ll be able to see the network and use the visualizations to inform program design, convenings, etc.
+		* Reflect changes in: connectivity, alignment, size and reach of MLN in a way that encourages programme designers to make the network stronger.  How and when we do this is part of what will be developed in H2.
+
+	* How is this incorporated into out Convenings - these are the questions we should be thinking about ...
+		* How can we increase the # of people that get our survey - ie. member contact information
+		* How can we increase the # of people that answer the survey
+		* How can we increase the number of connections that our members are making - ie. adding new members and connecting them with existing members
+		* How can we make these connections stronger
+		* How can we increase their alignment with our issues and Mozilla
+		* 
+
+	* Next Steps:
+		* Research  the current role data collection has in the MLN hubs
+		* We did not have historic data specific to this KPI, so we could not yet set useful targets. After establishing baseline data in H1, we aim to set initial targets in H2
+		* Status
+			* We have established a way to capture network data through our survey
+			* We need to turn this data into a number that can function as the current ‘score’ for our Network Strength KPI - this has been completed
+			* We need a process to capture this data at regular intervals throughout MLN
+
+	* Q & A
+		* Piloted survey with Hive(members, mostly New York), Clubs (captains) and Science Lab - looking at individual networks to help us get to baselines
+		* Can we see the graphs/results? Can we see the number?
+			* https://docs.google.com/document/d/17NQKl7QdlpxdAaDkm36Gtlxla6WHTu1Qn1OJ0xktMYo/edit# thx!
+		* Will also be helpful for hub folks to know other ways to plug in data here
+		* What kind of data are we allowed to collect? POI data is sensitive.
+
+
+
+NOTES:
+incentive, something to encourage people to fill out the survey
+who do we give the survey to - cap the number
+need to be in continual contact with people if you are going to keep the data
+can't contact poeple after 6 months
+Use MozFest registration form
+At MozFest - find a fun way to collect information from participants  - assign some people to do the data collection
+Post-convening surveys
+Asked for github handle at MozFest 2016
+Project Magnet
+Give people something back for the feedback you give them
+H2 MLN data audit? towards more streamlined data capturing and analysis, and better connections to Network Strength KPI

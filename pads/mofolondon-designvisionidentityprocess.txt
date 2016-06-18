@@ -1,0 +1,31 @@
+
+	* Part 1: Share design vision: Each designer gives a lightning talk about a design hero, where they see design going, and from these two things a quality, attribute or project Mozilla design should embrace. Our goal here is to expand our design vision as a group, and highlight ideas that could impact design across MOCO and MOFO.
+		* Activity - talk about heroes, trends, sacred things, baggage
+		* Outcome - deeper an understanding of what makes each other tick, and some inspiration to bring back to our projects. 
+		* Impact - could inform some content on our design repo home, could reignite principals stuff, inform brand/identity input
+
+	* Part 2: Mozilla rebrand hack: MOCO branding has defined Mozilla brand attributes. Do they align with the design attributes we defined in 2015? Let’s evaluate and leave with a shared set of attributes we express every time we design a product or project.
+		* Context: Ideally a couple of designers attend the Brand open house Wednesday, 6/15 at 4:00 PM in the Metropole Hotel []
+		* Prep: Links, slides, and print outs of the MOCO branding attributes and our 2015 design attributes
+		* Activity
+			* discuss and document feedback
+			* Review moodboards https://github.com/MozillaFoundation/Design/issues/39
+		* Outcome – feedback goes to advisory committee
+		* Impact – a moar awesome brand that serves our advocacy and the Network 
+
+	* Part 3: MOFO design repo: Will start with a postmortem on collaborative design studio efforts since Whistler. What worked, what didn't, what do we want to do next. Big question, how do we want to work in the new org structure. (MLN / Advocacy) ? What do we expect from each other moving forward?
+		* Context: We need a home for recruitment, universal alignment, and resource gathering. We lost our page on build dot mofo and might benefit from something on an independent repo. 
+		* Prep: 
+			* https://github.com/mozilla/build.webmaker.org/issues/104
+		* Goal: Have a home for
+			* Recruiting 
+			* Universal design
+			* Assets
+			* Principles etc
+		* Activity: 
+			* Dig up and review prior build dot mofo content
+			* Review benchmarks
+				* https://standards.usa.gov/
+			* Discuss iteration
+			* Use of moodboards
+			* Talk about Learning and other sites and how do handle transitional styles that will always transitional

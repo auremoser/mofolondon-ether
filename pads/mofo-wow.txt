@@ -1,0 +1,175 @@
+JUNE LONDON WORKWEEK 
+
+Make your own Working Open Workshop (WOW)
+mzl.la/wow
+sciencelab@mozillafoundation.org
+
+Where: York, East Tower (Level -2, Metropole), London, UK
+When: June 15, 4:30pm GMT
+Why: The Working Open Workshop was designed to be a modular workshop series, available as a template for future forking and use. We've broken out the tools and utilities we used for our first WOW in Berlin below, and would like to share those with greater Mozilla.
+Who: Any Mofo
+
+LINKS:
+Schedule: https://docs.google.com/spreadsheets/d/19lBkFBuPecVtD5IuXefbaxm-13vpfZknuXWlF3gYI-0/edit#gid=514358606
+
+
+ROLL CALL:
+    name / team / twitter
+	* Aurelia / Science Lab / @auremoser
+	*  Julia / Clubs / @colorwheelz
+	*  Vanessa / Open Web  / @vrhinesmith
+	*  Abby / MLN / @abbycabs
+	* Zannah / MSL 
+	* Kaitlin Thaney / MLN
+	* Francisco / Participation / @francjp
+	* Bob Chao / Participation / @bobchao
+	* Rob Schaefer / Volunteer MSL / @CSciBio
+	* Anna Krystalli/ MSL OLC / @annakrystalli
+	* Christie Bahlai / MSL Fellow /@cbahlai
+	* Arliss Collins / MLN / @arlissc99
+
+REGRETS: 
+    name / team for those not attending but informed
+	*  
+	*  
+	*  
+	*  
+	*  
+
+AGENDA
+
+	TOOLS
+		- github (issues + filesharing + jekyll + gh-pages
+		- etherpad (notes, olc calls, planning and curriculum drafts)
+		- google docs (sensitive info/receipts/flight info, template emails, forms/surveys)
+		- expensify (reimbursements)
+	
+	1. Define Working Open Workshop
+		its origin story
+		Kaitlin
+			* leadership summit + collaborate platform + fellows workweek
+				* provide support for more meaningful engagement
+				* use star power of gathered fellows
+				* amp up our curriculum production-- big push!
+			* Working Open Guide + Mozilla
+			* Call from community for WO practice info
+			* Project focused, practical, hands-on
+			* Building regional community in Europe
+			* Mentorship experience bookended by two events, a training and a community work sprint
+	2. Curriculum development
+		walk through a few of the modules / structure of the workshop
+		Zannah
+			* team effort! 16+ materials 
+			* short presentation on topics, with slides
+				* topics relate to concrete products: READMES, roadmaps, repos
+				* visuals and diagrams where possible
+				* structure, feedback from zm, rehearsals in days before
+				* awesome template to standardize material
+				* science fox!
+			* handouts to guide group work 
+			* facilitators float and assist
+	3. Follow on mentorship
+		how it works, why it's important
+		Abby
+			* accountability & guidance as participants apply what they've learned. Help their open source project succeed!
+			* level up & engage participants
+			* prepare projects leading up to mozsprint -- higher quality projects participating
+			* how it works - lightweight structure!
+				* meet every two weeks for 30min over ~3 months
+				* add everyone to a chat channel
+				* Beginning: 
+					* set 2-3 goals around your project (community, product, resources)
+					* sketch out a rough timeline working towards these goals over the next 3months
+				* During:
+					* Check in on progress/updates and adjust timeline as needed when you meet. Bring in experts when needed.
+				* End:
+					* large event (mozsprint, mozfest) - practice working in community
+					* debrief, ask if they want to be a mentor
+	4. Where we are now
+		stories of impact, how this has affected participants, what benefits have we seen 
+		Arliss / Aurelia
+			* madeline (novice) + max franz (technical)
+				* madeleine has leveled up - runs a successful SG
+				* phageparser is an awesome project
+				* max is still vary engaged, has brought additional projects, started collaborations
+				* we are able to reach a spectrum of people, level them up and 
+			* mini-wow in berlin (anna/peter/jon)
+			* achintya
+				* doing his PhD remotely and on a part-time basis
+				* had no cohort or peer group to rely on for the kind of emotional support one needs while pursuing a PhD
+				* Now he has the MowWOW Gitter room. where the conversations, both meaningful and inane, and is so grateful that there are people I can call upon to talk with when I feel stuck or lost
+			* rob- sprint, led to study group, what brought him back to contribute more
+	5. Future plans
+		how to run your own, pointing to resources
+		Aurelia
+			* wow -> open leadership curriculum
+			* wow II -> Mozfest
+			* lessons
+				* high commitment for staff
+				* scale as needed-- feel free to scale down!
+				* mentoring means lots of meetings and calls
+			* resources for future wows
+	6. Q/A Suggestions
+		
+
+RESOURCES
+	PRE-EVENT
+	the hype plan + Logistics leading up to WOW
+		Assembling a list of contacts to invite, sorting to batches: https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit
+		Using email templates for a staged roll-out of details: https://docs.google.com/document/d/1N1vkRNPFTVLzavFuMzQjy916VNSKDlOvXbrL2-Tx-r0/edit
+		Receipts + Expensify for guests: https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHcmtRcVhFYktjeDA
+		Visa considerations for WOW: https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHYS16UFREUnF3Y0U
+		Pre event surveys: https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHMzhpdzd5ZFBaaFk
+		Tracking travel: https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=1220871281
+		Topics and curriculum crowdsourcing via Github: https://github.com/mozillascience/working-open-workshop/issues?q=is%3Aissue+is%3Aclosed
+		Accessibility: http://mozillascience.github.io/working-open-workshop/#notes
+	DURING EVENT
+	the programming
+		GH-pages site design: https://github.com/mozillascience/working-open-workshop
+		Documentation role definition for planning team
+			Flickr: https://www.flickr.com/photos/139954518@N06/sets/72157662003654193
+			Note-taking: https://public.etherpad-mozilla.org/p/mozwow-feb2016
+	POST-EVENT 
+	the wrap-up and segue to OLC
+		Post-event surveys: https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHMzhpdzd5ZFBaaFk
+		Tracking OLC invites via Github: https://github.com/mozillascience/working-open-workshop/issues
+		Keeping in touch with Gitter: https://gitter.im/mozillascience/working-open-workshop
+		Staging 2 week meetings, Google Calendar Slots
+		Hosting 2 weekly meetings and defining objectives: https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=382985222
+		Culmination event
+			Global Sprint
+			Mozfest
+	Forking Working Open
+		Sharing Guidebook: http://blog.jasonbobe.net/sharing-guidebook/
+		Friendly Github Intro: http://joeyklee.github.io/friendly-github-intro/
+		Science Hack Day Data Camp: http://sciencehackdayny.github.io/data-camp-16/
+	
+SUGGESTIONS
+
+NOTES
+Kaitlin : What is the science lab? How did the WOW become a thing?
+  3 years of existance, reach community, become engaged
+  1 year ago: how to better serve communities?
+	* Computational Training? Went to community, what can Mozilla do?
+	*  Mozilla's role was to provide momentum and to provide a platform, led to WOW and wow guide
+  September last year: Workshop in Toronto on creating a Working open Workshop
+  1st WOW: Berlin
+	* 30 members of community
+	*  dig into things like creating README, roadmap, understanding on how to get started, how to get started 
+Today:
+	* Go through the materials that were created to support your own WOW
+
+Zannah: Instructional Designer, Curriculum development
+	* Created curriculum for workshop, worked with participants on designing things for their own projects
+	* create  READMEs, contributing guidelines, persona
+	* WOW: day of
+		* presentations, work directly with participants
+
+Abby: 
+
+
+RESOURCES
+	Light Link List: https://docs.google.com/document/d/1kqzuwf8lnczk2dczzNKtcHxIUPDLAfhMZIq4waRoFfw/edit
+	Github Repo: https://github.com/mozillascience/working-open-workshop
+	Site: http://mozillascience.github.io/working-open-workshop/
+	
