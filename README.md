@@ -17,9 +17,9 @@ etherpad stats stuff for mofo london
 
 ### requirements
 
-* [ ] get text data from all etherpads at `#mozlondon` (in `data.csv`)
-* [ ] separate all empty etherpads (in `duds.csv`)
-* [ ] add etherpad text data to `pads/` directory (1 etherpad = 1 .txt file)
+* [x] get text data from all etherpads at `#mozlondon` (in `data.csv`)
+* [x] separate all empty etherpads (in `duds.csv`)
+* [x] add etherpad text data to `pads/` directory (1 etherpad = 1 .txt file)
 * [ ] write a script to go over all etherpads and pull out stats from the **ideas** section above
 * [ ] update stats below in summary
 
@@ -29,6 +29,7 @@ etherpad stats stuff for mofo london
 *updated as learned* 
 
 * 120 etherpads/sessions
+* 20 etherpads with content
 
 
 ### process options
