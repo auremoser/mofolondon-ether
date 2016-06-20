@@ -57,4 +57,9 @@ We'll probably do this one.
 
 Most etherpads are empty and pads seem to have a character limitation on the url (so long pad names don't render)
 
+1. install npm i request-promise
+2. run `node index.js` from this directory
+
+This will download all the URLs in `data.csv`.
+
 
